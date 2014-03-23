@@ -1,0 +1,4 @@
+export PATH=$PATH:/usr/bin:/usr/sbin:/Applications/gedit.app/Contents/MacOS
+
+alias ls='ls -G'
+alias ll='ls -l'
